@@ -7,7 +7,7 @@
 ### Composer
 
 ```ssh
-composer required beebmx/kirby-rickroll
+composer require beebmx/kirby-rickroll
 ```
 
 ## Usage
